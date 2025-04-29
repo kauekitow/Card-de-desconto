@@ -1,0 +1,8 @@
+@media screen and (max-width: 600px){
+    .card{
+        margin: 0;
+    }
+    button{
+        padding: 20px 30px;
+    }
+}
